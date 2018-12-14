@@ -11,7 +11,9 @@ Selections mirror many of the movement commands. They're actually exactly the sa
 * <kbd class="platform-all">Shift+Down</kbd><span class="platform-mac"> or <kbd class="platform-mac">Ctrl+Shift+N</kbd></span> - Select down
 * <kbd class="platform-all">Shift+Left</kbd><span class="platform-mac"> or <kbd class="platform-mac">Ctrl+Shift+B</kbd></span> - Select previous character
 * <kbd class="platform-all">Shift+Right</kbd><span class="platform-mac"> or <kbd class="platform-mac">Ctrl+Shift+F</kbd></span> - Select next character
-* <kbd class="platform-mac">Alt+Shift+Left</kbd><kbd class="platform-windows platform-linux">Ctrl+Shift+Left</kbd><span class="platform-mac"> or <kbd class="platform-mac">Alt+Shift+B</kbd></span> - Select to beginning of word
+* <kbd class="platform-mac">Alt+Shift+Left</kbd><kbd class="platform-windows platform-linux">Ctrl+Shift+Left</kbd><span class="platform-mac"> or <kbd class="platform-mac">Alt+Shift+B</kbd></span> - Select to beginning of 
+
+
 * <kbd class="platform-mac">Alt+Shift+Right</kbd><kbd class="platform-windows platform-linux">Ctrl+Shift+Right</kbd><span class="platform-mac"> or <kbd class="platform-mac">Alt+Shift+F</kbd></span> - Select to end of word
 * <kbd class="platform-mac">Cmd+Shift+Right</kbd><kbd class="platform-windows platform-linux">Shift+End</kbd><span class="platform-mac"> or <kbd class="platform-mac">Ctrl+Shift+E</kbd></span> - Select to end of line
 * <kbd class="platform-mac">Cmd+Shift+Left</kbd><kbd class="platform-windows platform-linux">Shift+Home</kbd><span class="platform-mac"> or <kbd class="platform-mac">Ctrl+Shift+A</kbd></span> - Select to first character of line
@@ -25,6 +27,6 @@ In addition to the cursor movement selection commands, there are also a few comm
 
 {{#mac}}
 
-* <kbd class="platform-mac">Ctrl+Shift+W</kbd> - Select the current word
+* <kbd class="platform-mac">Cmd+D</kbd> or <kbd class="platform-mac">Ctrl+Shift+W</kbd> - Select the current word
 
 {{/mac}}
